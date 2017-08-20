@@ -1,0 +1,35 @@
+{
+	"fileid": "CLEF2013wn-CHiC-WilhelmSteinEt2013",
+	"tablecounter": 1,
+	"header": "Table 1. Results of our stemming experiments",
+	"rows": [
+		{
+			"stemmer": "standard",
+			"map": "0.2336",
+			"gmap": "0.1423",
+			"bpref": "0.3115",
+			"r-precision": "0.3130"
+		},
+		{
+			"stemmer": "less aggressive",
+			"map": "0.2338",
+			"gmap": "0.1421",
+			"bpref": "0.3108",
+			"r-precision": "0.3140"
+		},
+		{
+			"stemmer": "hunspell",
+			"map": "0.1739",
+			"gmap": "0.0928",
+			"bpref": "0.2468",
+			"r-precision": "0.2517"
+		},
+		{
+			"stemmer": "no stemmer",
+			"map": "0.1534",
+			"gmap": "0.0575",
+			"bpref": "0.2239",
+			"r-precision": "0.2117"
+		}
+	]
+}
