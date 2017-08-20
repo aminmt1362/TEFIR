@@ -1,0 +1,6 @@
+[submodule "TCF"]
+	path = TCF
+	url = https://github.com/aminmt1362/TCF.git
+[submodule "pdfextractor"]
+	path = pdfextractor
+	url = https://github.com/aminmt1362/pdfextractor.git
