@@ -1,0 +1,23 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Pawlowski2013",
+	"tablecounter": 1,
+	"header": "Table 1. Structure of CHiC 2013 Polish collection (based on the CHiC 2012 data)",
+	"rows": [{
+		"Media type": "text",
+		"documents": "975,818",
+		"percentage of collection": "89.221%"
+	}, {
+		"Media type": "images",
+		"documents": "117,075",
+		"percentage of collection": "10.704%"
+	}, {
+		"Media type": "videos",
+		"documents": "582",
+		"percentage of collection": "0.053%"
+	}, {
+		"Media type": "sound",
+		"documents": "230",
+		"percentage of collection": "0.021%"
+	}
+	]
+}

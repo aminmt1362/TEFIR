@@ -1,0 +1,56 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-GoeuriotEt2013",
+	"tablecounter": 1,
+	"header": "Table 1. Coverage and minimum rank of first unassessed document for relevance assessments of runs. (*) indicates runs for which results up to rank 10 were completely assessed.",
+	"rows": [
+		{
+			"Run": "1 (*)",
+			"# submitted runs": "9",
+			"Assessed docs @10": "100%",
+			"Missing docs @10": "0",
+			"Avg. minimum unassessed rank": "18.31"
+		},
+		{
+			"Run": "2 (*)",
+			"# submitted runs": "5",
+			"Assessed docs @10": "100%",
+			"Missing docs @10": "0",
+			"Avg. minimum unassessed rank": "14.75"
+		},
+		{
+			"Run": "3",
+			"# submitted runs": "5",
+			"Assessed docs @10": "92%",
+			"Missing docs @10": "417",
+			"Avg. minimum unassessed rank": "14.52"
+		},
+		{
+			"Run": "4",
+			"# submitted runs": "5",
+			"Assessed docs @10": "81%",
+			"Missing docs @10": "940",
+			"Avg. minimum unassessed rank": "14.02"
+		},
+		{
+			"Run": "5 (*)",
+			"# submitted runs": "9",
+			"Assessed docs @10": "100%",
+			"Missing docs @10": "0",
+			"Avg. minimum unassessed rank": "14.80"
+		},
+		{
+			"Run": "6",
+			"# submitted runs": "9",
+			"Assessed docs @10": "88%",
+			"Missing docs @10": "1064",
+			"Avg. minimum unassessed rank": "14.78"
+		},
+		{
+			"Run": "7",
+			"# submitted runs": "6",
+			"Assessed docs @10": "84%",
+			"Missing docs @10": "955",
+			"Avg. minimum unassessed rank": "14.76"
+		}
+	]
+}

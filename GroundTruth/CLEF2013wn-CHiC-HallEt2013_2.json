@@ -1,0 +1,27 @@
+{
+	"fileid": "CLEF2013wn-CHiC-HallEt2013",
+	"tablecounter": 2,
+		"header": "Table 2. Number of users whose first action/first search or browse action were as column one",
+		"rows": [
+			{ 
+				"Action": "Category select",
+				"# Users first action": "15",
+				"# Users first search/browse action": "20"
+			},
+			{ 
+				"Action": "Display item",
+				"# Users first action": "3",
+				"# Users first search/browse action": "-"
+			},
+			{ 
+				"Action": "Next search result page",
+				"# Users first action": "1",
+				"# Users first search/browse action": "-"
+			},
+			{ 
+				"Action": "Add to book-bag",
+				"# Users first action": "1",
+				"# Users first search/browse action": "-"
+			}
+		]
+	}

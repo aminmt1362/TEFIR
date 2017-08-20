@@ -1,0 +1,23 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-HervasEt2013",
+"tablecounter": 4,
+"header":"Table 4. Task 1B. No external annotations. Relaxed",
+"rows": [
+		{"Team, Country": "AEHRC.1, QLD, Australia",
+		"Accuracy(sn2012)": "0.939",
+		"Accuracy(sn2011)": "0.939"
+		},
+		{"Team, Country": "NIL-UCM.1, Spain",
+		"Accuracy(sn2012)": "0.871",
+		"Accuracy(sn2011)": "0.870"
+		},
+		{"Team, Country": "NIL-UCM.2, Spain",
+		"Accuracy(sn2012)": "0.850",
+		"Accuracy(sn2011)": "0.850"
+		},
+		{"Team, Country": "UTHealth CCB.1, UT, USA",
+		"Accuracy(sn2012)": "0.728",
+		"Accuracy(sn2011)": "0.772"
+		}
+	]
+}

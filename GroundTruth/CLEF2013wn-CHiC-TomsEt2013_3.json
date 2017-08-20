@@ -1,0 +1,37 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 3,
+	"header": "Table 3. Participants by Age and Gender",
+	"rows": [
+		{
+			"Age": "18-25",
+			"Female": "53",
+			"Male": "24",
+			"Total": "77"
+		},
+		{
+			"Age": "26-35",
+			"Female": "47",
+			"Male": "24",
+			"Total": "71"
+		},
+		{
+			"Age": "36-45",
+			"Female": "16",
+			"Male": "12",
+			"Total": "28"
+		},
+		{
+			"Age": "46-55",
+			"Female": "12",
+			"Male": "8",
+			"Total": "20"
+		},
+		{
+			"Age": "56-65",
+			"Female": "8",
+			"Male": "4",
+			"Total": "12"
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-GoeuriotEt2013",
+	"tablecounter": 2,
+	"header": "Table 2. Participants for task 3.",
+	"rows": [
+		{
+			"name": "Team-OHSU",
+			"Country": "(USA)",
+			"# submitted runs" : "3",
+			"Runs prefix": "ohsu"
+		},
+		{
+			"name": "Team-UCSC.KC&RA",
+			"Country": "(USA)",
+			"# submitted runs" : "4",
+			"Runs prefix": "TeamKC"
+		},
+		{
+			"name": "Team-Mayo",
+			"Country": "(USA)",
+			"# submitted runs" : "7",
+			"Runs prefix": "TeamMayo"
+		},
+		{
+			"name": "Team-UTHealth_CCB-3",
+			"Country": "(USA)",
+			"# submitted runs" : "4",
+			"Runs prefix": "UTHealth.CCB"
+		},
+		{
+			"name": "Team-UOG",
+			"Country": "(UK)",
+			"# submitted runs" : "4",
+			"Runs prefix": "uogTr"
+		},
+		{
+			"name": "Team-AEHRC",
+			"Country": "(Australia)",
+			"# submitted runs" : "4",
+			"Runs prefix": "teamAEHRC"
+		},
+		{
+			"name": "Team-QUT",
+			"Country": "(Australia)",
+			"# submitted runs" : "6",
+			"Runs prefix": "QUT-TOPSIG"
+		},
+		{
+			"name": "Team-SNUBMedinfo",
+			"Country": "(Republic of Korea)",
+			"# submitted runs" : "7",
+			"Runs prefix": "MEDINFO"
+		},
+		{
+			"name": "Team-THCIB",
+			"Country": "(China)",
+			"# submitted runs" : "7",
+			"Runs prefix": "THCIB"
+		}
+	]
+}

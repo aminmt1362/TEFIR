@@ -1,0 +1,30 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Pawlowski2013",
+	"tablecounter": 3,
+	"header": "Table 3. Decrease of the MAP values.",
+	"rows": [{
+		"Run id": "Baseline",
+		"Parameters": "<title> field, no stop words",
+		"MAP": "0.3140",
+		"% of change": "-"
+	}, 
+	{
+		"Run id": "PLWREdu",
+		"Parameters": "educated users, no stop words",
+		"MAP": "0.1529",
+		"% of change": "-51.3%"
+	},
+	{
+		"Run id": "PLWRExp",
+		"Parameters": "expert user, no stop words",
+		"MAP": "0.1795",
+		"% of change": "-42.8%"
+	} ,
+	{
+		"Run id": "PLWRStu",
+		"Parameters": "student, no stop words",
+		"MAP": "0.1279",
+		"% of change": "-59.3%"
+	}
+	]
+}

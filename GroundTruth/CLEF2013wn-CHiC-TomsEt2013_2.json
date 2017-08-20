@@ -1,0 +1,39 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 2,
+	"header": "Table 2. Metadata fields displayed with each image",
+	"rows": [
+		{
+			"Metadata field": "dc:creator",
+			"Label as Displayed": "Names"
+		},
+		{
+			"Metadata field": "dc:type",
+			"Label as Displayed": "Type"
+		},
+		{
+			"Metadata field": "dc:subject",
+			"Label as Displayed": "Topics"
+		},
+		{
+			"Metadata field": "dcterms:temporal",
+			"Label as Displayed": "Time period"
+		},
+		{
+			"Metadata field": "dcterms:spatial",
+			"Label as Displayed": "Geographic area"
+		},
+		{
+			"Metadata field": "dcterms:isPartOf",
+			"Label as Displayed": "Collection"
+		},
+		{
+			"Metadata field": "europeana:dataProvider",
+			"Label as Displayed": "Object owner"
+		},
+		{
+			"Metadata field": "europeana:country",
+			"Label as Displayed": "Location of object"
+		}
+	]
+}

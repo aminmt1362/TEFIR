@@ -1,0 +1,37 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Malak2013",
+	"tablecounter": 5,
+	"header": "Table 5. MAP for official submitted runs.",
+	"rows": [
+		{
+			"Run id": "BASE",
+			"Parameters": "only <title> field, no stemming",
+			"MAP": "0.3140",
+			"% of change": "n/a"
+		},
+		{
+			"Run id": "PLTO1EDULS",
+			"Parameters": "educated users, light stemmer",
+			"MAP": "0.2774",
+			"% of change": "11.66%"
+		},
+		{
+			"Run id": "PLTO1EDUNO",
+			"Parameters": "educated user, no stemmer",
+			"MAP": "0.2724",
+			"% of change": "-13.25%"
+		},
+		{
+			"Run id": "PLTO2EXPRTLS",
+			"Parameters": "expert user, light stemmer",
+			"MAP": "0.2690",
+			"% of change": "-14.33%"
+		},
+		{
+			"Run id": "PLTO2EXPRTNO",
+			"Parameters": "expert user, no stemmer",
+			"MAP": "0.2709",
+			"% of change": "-13.73%"
+		}
+	]
+}

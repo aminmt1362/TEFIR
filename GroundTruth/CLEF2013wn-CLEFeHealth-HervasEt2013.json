@@ -1,0 +1,31 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-HervasEt2013",
+	"tablecounter": 1,
+	"header":"Table 1. Task 1A. No external annotations. Strict",
+	"rows": [
+		{
+		"Team, Country": "UTHealth CCB.2, UT, USA",
+		"Precision": "0.800",
+		"Recall": "0.706",
+		"F1-Score" : "0.750"
+		},
+		{
+		"Team, Country": "NIL-UCM.2, Spain",
+		"Precision": "0.617",
+		"Recall": "0.426",
+		"F1-Score" : "0.504"
+		},
+		{
+		"Team, Country": "NIL-UCM.1, Spain",
+		"Precision": "0.621",
+		"Recall": "0.416",
+		"F1-Score" : "0.498"
+		},
+		{
+		"Team, Country": "FAYOLA.1, VW, USA",
+		"Precision": "0.024",
+		"Recall": "0.446",
+		"F1-Score" : "0.046"
+		}
+	]
+}

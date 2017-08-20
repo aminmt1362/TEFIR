@@ -1,0 +1,42 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Malak2013",
+	"tablecounter": 2,
+	"header": "Table 2. Irregular declension of noun kolega (a colleague)",
+	"rows": [
+		{
+			"": "N.",
+			"singular": "kolega",
+			"plural": "koledzy"
+		},
+		{
+			"": "G.",
+			"singular": "kolegi",
+			"plural": "kolegów"
+		},
+		{
+			"": "D.",
+			"singular": "koledze",
+			"plural": "kolegom"
+		},
+		{
+			"": "A.",
+			"singular": "kolegę",
+			"plural": "kolegów"
+		},
+		{
+			"": "I.",
+			"singular": "kolegą",
+			"plural": "kolegami"
+		},
+		{
+			"": "L.",
+			"singular": "koledze",
+			"plural": "kolegach"
+		},
+		{
+			"": "V.",
+			"singular": "kolego!",
+			"plural": "koledzy!"
+		}		
+	]
+}

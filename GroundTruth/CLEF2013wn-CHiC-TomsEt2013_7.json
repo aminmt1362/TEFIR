@@ -1,0 +1,21 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 7,
+	"header": "Table 7. Perception of and Satisfaction with the objects.",
+	"rows": [
+		{
+			"Measure": "Expected",
+			"Definition": "Scale of 1-5, degree to which objects were as expected",
+			"Web": [ {"#": "1.54"}, {"SD": "0.977"}], 
+			"Lab": [ {"#": "1.94"}, {"SD": "1.099"} ],
+			"Mean": [ {"#": "1.63"}, {"SD": "1.017"} ]
+		},
+		{
+			"Measure": "Satisfied",
+			"Definition": "Scale of 1-5, degree to which objects were as expected",
+			"Web": [ {"#": "1.74"}, {"SD": "1.119"}], 
+			"Lab": [ {"#": "1.92"}, {"SD": "1.145"} ],
+			"Mean": [ {"#": "1.78"}, {"SD": "1.125"} ]
+		}
+	]
+}

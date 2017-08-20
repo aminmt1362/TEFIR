@@ -1,0 +1,27 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-BodnariEt2013",
+	"tablecounter": 1,
+	"header": "Table 1. Description of training and test data sets",
+	"rows": [
+		{
+			"": "Word count",
+			"Training": "94,243",
+			"Test": "87,799"
+		},
+		{
+			"": "Annotaton count",
+			"Training": "5,874",
+			"Test": "5,351"
+		},
+		{
+			"": "Non-contiguous annotation count",
+			"Training": "660",
+			"Test": "439"
+		},
+		{
+			"": "Documents",
+			"Training": "200",
+			"Test": "100"
+		}
+	]
+}

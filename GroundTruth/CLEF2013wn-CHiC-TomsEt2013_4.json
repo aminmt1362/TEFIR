@@ -1,0 +1,48 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 4,
+	"header": "Table 4. Participants by Age and Gender",
+	"rows": [
+		{
+			"Education": "",
+			"Female": "IP/C",
+			"Male": "IP/C"
+		},
+		{
+			"Education": "Secondary",
+			"Female": "0/97",
+			"Male": "0/53"		
+		},
+		{
+			"Education": "Undergraduate",
+			"Female": "31/74",
+			"Male": "14/42"
+		},
+		{
+			"Education": "Further",
+			"Female": "1/79",
+			"Male": "4/40"
+		},
+		{
+			"Education": "Masters",
+			"Female": "33/39",
+			"Male": "14/23"
+		},
+		{
+			"Education": "Doctorate",
+			"Female": "14/14",
+			"Male": "17/11"
+		},
+		{
+			"Education": "Professional",
+			"Female": "1/7",
+			"Male": "1/2"
+		},
+		{
+
+			"Education": "Note: IP=in progress; C=completed",
+			"Female": "",
+			"Male": ""
+		}
+	]
+}

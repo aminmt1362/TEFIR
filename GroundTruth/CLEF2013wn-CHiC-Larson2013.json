@@ -1,0 +1,26 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Larson2013",
+	"tablecounter": 1,
+	"header": "Table 1. Contingency table for term relevance weighting",
+	"rows": [
+		{
+			"feild1": "In doc",
+			"Relevant": "Rt",
+			"Not Relevant": "Nt - Rt",
+			"feild4": "Nt"
+		},
+		{
+			"feild1": "Not in doc",
+			"Relevant": "R - Rt",
+			"Not Relevant": "N - Nt - R + Rt",
+			"feild4": "N - Nt"
+		},
+		{
+			"feild1": "",
+			"Relevant": "R",
+			"Not Relevant": "N - R",
+			"feild4": "N"
+		}
+		
+	]
+}

@@ -1,0 +1,57 @@
+{
+   "fileid":"CLEF2013wn-CLEFeHealth-BodnariEt2013",
+   "tablecounter":2,
+   "header":"Table 2. System results on training and test data sets under strict and relaxed evaluation settings.",
+   "rows":[
+      {
+         "":"Strict",
+         "Training":[
+            {
+               "Precision":"0.791"
+            },
+            {
+               "Recall":"0,677"
+            },
+            {
+               "F measure":"0.730"
+            }
+         ],
+         "Test":[
+            {
+               "Precision":"0.814"
+            },
+            {
+               "Recall":"0,473"
+            },
+            {
+               "F measure":"0.598"
+            }
+         ]
+      },
+      {
+         "":"Relaxed",
+         "Training":[
+            {
+               "Precision":"0.961"
+            },
+            {
+               "Recall":"0,823"
+            },
+            {
+               "F measure":"0.887"
+            }
+         ],
+         "Test":[
+            {
+               "Precision":"0.964"
+            },
+            {
+               "Recall":"0,563"
+            },
+            {
+               "F measure":"0.711"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,25 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-ChoiEt2013",
+	"tablecounter": 3,
+	"header": "Table 3. Passage based language model with lexical query expansion run result",
+	"rows": [
+		{
+			"Runid": "MEDINFO.2.3.noadd",
+			"MAP": "0.2454",
+			"bpref": "0.3389",
+			"P10": "0.3980"
+		},
+		{
+			"Runid": "MEDINFO.3.3.noadd",
+			"MAP": "0.2584",
+			"bpref": "0.3434",
+			"P10": "0.4040"
+		},
+		{
+			"Runid": "MEDINFO.4.3.noadd",
+			"MAP": "0.2601",
+			"bpref": "0.3457",
+			"P10": "0.4060"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-HervasEt2013",
+	"tablecounter": 2,
+	"header":"Table 2. Task 1A. No external annotations. Relaxed",
+	"rows": [
+		{
+		"Team, Country": "UTHealth CCB.2, UT, USA",
+		"Precision": "0.925",
+		"Recall": "0.827",
+		"F1-Score" : "0.873"
+		},
+		{
+		"Team, Country": "NIL-UCM.2, Spain",
+		"Precision": "0.809",
+		"Recall": "0.558",
+		"F1-Score" : "0.660"
+		},
+		{
+		"Team, Country": "NIL-UCM.1, Spain",
+		"Precision": "0.812",
+		"Recall": "0.543",
+		"F1-Score" : "0.651"
+		},
+		{
+		"Team, Country": "FAYOLA.1, VW, USA",
+		"Precision": "0.504",
+		"Recall": "0.043",
+		"F1-Score" : "0.079"
+		}
+	]
+}

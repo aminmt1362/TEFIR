@@ -1,0 +1,27 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-HervasEt2013",
+	"tablecounter": 3,
+	"header":"Table 3. Task 1B. No external annotations. Strict",
+	"rows": [
+		{
+		"Team, Country": "NCBI.2, MD, USA ",
+		"Accuracy(sn2012)": "0.589",
+		"Accuracy(sn2011)": "0.584"
+		},
+		{
+		"Team, Country": "NIL-UCM.2, Spain",
+		"Accuracy(sn2012)": "0.362",
+		"Accuracy(sn2011)": "0.362"
+		},
+		{
+		"Team, Country": "NIL-UCM.1, Spain",
+		"Accuracy(sn2012)": "0.362",
+		"Accuracy(sn2011)": "0.362"
+		},
+		{
+		"Team, Country": "NCBI.2, MD, USA",
+		"Accuracy(sn2012)": "0.006",
+		"Accuracy(sn2011)": "0.006"
+		}
+	]
+}

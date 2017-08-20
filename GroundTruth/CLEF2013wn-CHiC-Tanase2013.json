@@ -1,0 +1,55 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Tanase2013",
+	"tablecounter": 1,
+	"header": "Table 1: CHiC Ad-Hoc Multilingual Official Runs",
+	"rows": [
+		{
+			"Model": "PL2",
+			"Query Expansion": "-",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "EN-EN",
+			"MAP": "4.82"
+		},
+		{
+			"Model": "PL2+Bo1",
+			"Query Expansion": "x",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "EN-EN",
+			"MAP": "4.75"
+		},
+		{
+			"Model": "PL2",
+			"Query Expansion": "-",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "IT-IT",
+			"MAP": "2.55"
+		},
+		{
+			"Model": "PL2+Bo1",
+			"Query Expansion": "x",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "IT-IT",
+			"MAP": "2.89"
+		},
+		{
+			"Model": "PL2",
+			"Query Expansion": "-",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "EN-Mixed EN/IT",
+			"MAP": "6.30"
+		},
+		{
+			"Model": "PL2+Bo1",
+			"Query Expansion": "x",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Run": "IT-Mixed EN/IT",
+			"MAP": "5.97"
+		}
+	]
+}

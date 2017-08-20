@@ -1,0 +1,37 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Larson2013",
+	"tablecounter": 2,
+	"header": "Table 2. Cheshire II Indexes for Adhoc-CHiC 2006",
+	"rows": [
+		{
+			"Name": "URI",
+			"Description": "Europeana URI",
+			"Content Tags": "europeana:uri dc:identifier",
+			"Used": "no"
+		},
+		{
+			"Name": "contributor",
+			"Description": "Contributing Inst.",
+			"Content Tags": "dc:contributor",
+			"Used": "no"
+		},
+		{
+			"Name": "subject",
+			"Description": "Topics",
+			"Content Tags": "dc:subject",
+			"Used": "no"
+		},
+		{
+			"Name": "title",
+			"Description": "Title",
+			"Content Tags": "dc:title dc:subject, dc:descripiton",
+			"Used": "no"
+		},
+		{
+			"Name": "topic",
+			"Description": "Entire record",
+			"Content Tags": "ims:fields",
+			"Used": "yes"
+		}
+	]
+}

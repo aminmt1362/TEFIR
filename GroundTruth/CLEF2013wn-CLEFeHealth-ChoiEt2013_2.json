@@ -1,0 +1,25 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-ChoiEt2013",
+	"tablecounter": 2,
+	"header": "Table 2. Passage based language model run result",
+	"rows": [
+		{
+			"Runid": "MEDINFO.5.3.noadd",
+			"MAP": "0.2426",
+			"bpref": "0.3368",
+			"P10": "0.4040"
+		},
+		{
+			"Runid": "MEDINFO.6.3.noadd",
+			"MAP": "0.2343",
+			"bpref": "0.3332",
+			"P10": "0.3600"
+		},
+		{
+			"Runid": "MEDINFO.7.3.noadd",
+			"MAP": "0.2174",
+			"bpref": "0.3332",
+			"P10": "0.3480"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Akaserehet2013",
+	"tablecounter": 1,
+	"header": "Table 1. Evaluation of different stemming and merging strategies (multilingual task)",
+	"rows": [
+		{
+			"Offical Name": "",
+			"Parameter setting": "Separate indexes, RR",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "All",
+			"MAP": "0.1388"
+		},
+		{
+			"Offical Name": "",
+			"Parameter setting": "Separate indexes, bRR",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "All",
+			"MAP": "0.1402"
+		}
+		,
+		{
+			"Offical Name": "UnineMultiRun3",
+			"Parameter setting": "Separate indexes, NormMax",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "All",
+			"MAP": "0.1444"
+		},
+		{
+			"Offical Name": "UnineMultiRun2",
+			"Parameter setting": "Separate indexes, MinMax",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "All",
+			"MAP": "0.1516"
+		},
+		{
+			"Offical Name": "UnineMultiRun5",
+			"Parameter setting": "Separate indexes, Z-score",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "All",
+			"MAP": "0.1545"
+		},
+		{
+			"Offical Name": "UnineMultiRun4",
+			"Parameter setting": "Separate, -{SL,EL,HU}, bRR",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "-{SL, EL,HU}",
+			"MAP": "0.1389"
+		},
+		{
+			"Offical Name": "",
+			"Parameter setting": "Separate, -{SL,EL,HU}, NormMax",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "-{SL, EL,HU}",
+			"MAP": "0.1604"
+		},
+		{
+			"Offical Name": "",
+			"Parameter setting": "Separate, -{SL,EL,HU}, bRR",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "-{SL, EL,HU}",
+			"MAP": "0.1735"
+		},
+		{
+			"Offical Name": "UnineMultiRun4",
+			"Parameter setting": "Separate, -{SL,EL,HU}, bRR",
+			"Stem": "No",
+			"Stop word": "Yes",
+			"Language": "-{SL, EL,HU}",
+			"MAP": "0.1622"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Tanase2013",
+	"tablecounter": 2,
+	"header": "Table 2: Summary Results of the Monolingual EN & IT Unofficial Runs",
+	"rows": [
+		{
+			"Model": "DLH13",
+			"Query Expansion": "-",
+			"Stemming": "-",
+			"Stopwords": "-",
+			"Query Enruchment": "-",
+			"MAPEN": "36.25",
+			"MAPIT": "8.42"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "x",
+			"Stemming": "-",
+			"Stopwords": "-",
+			"Query Enruchment": "-",
+			"MAPEN": "34.97",
+			"MAPIT": "7.45"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "-",
+			"Stemming": "-",
+			"Stopwords": "-",
+			"Query Enruchment": "x",
+			"MAPEN": "25.76",
+			"MAPIT": "6.49"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "-",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Query Enruchment": "-",
+			"MAPEN": "35.19",
+			"MAPIT": "32.44"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "x",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Query Enruchment": "-",
+			"MAPEN": "33.75",
+			"MAPIT": "29.34"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "-",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Query Enruchment": "-",
+			"MAPEN": "25.87",
+			"MAPIT": "24.09"
+		},
+		{
+			"Model": "DLH13",
+			"Query Expansion": "x",
+			"Stemming": "x",
+			"Stopwords": "x",
+			"Query Enruchment": "x",
+			"MAPEN": "25.70",
+			"MAPIT": "21.43"
+		}
+	]
+}

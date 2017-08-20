@@ -1,0 +1,43 @@
+{
+	"fileid": "CLEF2013wn-CLEFeHealth-CaballeroEt2013",
+	"tablecounter": 1,
+	"header": "Table 1. Mean Performance Results of the base model ant the variants of the model for the test set.",
+	"rows": [
+		{
+			"Model": "Baseline",
+			"P@10": "0.4040",
+			"MAP": "0.2666",
+			"NDCG": "0.3637"
+		},
+		{
+			"Model": "Variant 1",
+			"P@10": "0.0600",
+			"MAP": "0.0178",
+			"NDCG": "0.0548"
+		},
+		{
+			"Model": "Variant 2",
+			"P@10": "0.1920",
+			"MAP": "0.1590",
+			"NDCG": "0.1765"
+		},
+		{
+			"Model": "Variant 3",
+			"P@10": "0.2320",
+			"MAP": "0.1634",
+			"NDCG": "0.2062"
+		},
+		{
+			"Model": "Variant 4",
+			"P@10": "0.0580",
+			"MAP": "0.0197",
+			"NDCG": "0.0549"
+		},
+		{
+			"Model": "Variant 5",
+			"P@10": "0.3640",
+			"MAP": "0.2270",
+			"NDCG": "0.3281"
+		}
+	]
+}

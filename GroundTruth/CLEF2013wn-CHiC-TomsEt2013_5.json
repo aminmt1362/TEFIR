@@ -1,0 +1,77 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 5,
+	"header": "Table 5. Use of interface objects.",
+	"rows": [
+		{
+			"field1": "Queries",
+			"field2": "# of queries",
+			"Web": [ {"#": "3.5"}, {"SD": "8.6"}], 
+			"Lab": [ {"#": "5.3"}, {"SD": "6.6"} ],
+			"Mean": [ {"#": "3.9"}, {"SD": "8.2"} ]
+		},
+		{
+			"field1": "Categories*",
+			"field2": "# of categories selected from hierarchy",
+			"Web": [ {"#": "9.3"}, {"SD": "11.3"}], 
+			"Lab": [ {"#": "19.6"}, {"SD": "22.8"} ],
+			"Mean": [ {"#": "11.7"}, {"SD": "15.3"} ]
+		},
+		{
+			"field1": "Metadata facets*",
+			"field2": "# of metadata facets examined",
+			"Web": [ {"#": "0.7"}, {"SD": "2.1"}], 
+			"Lab": [ {"#": "2.4"}, {"SD": "6.4"} ],
+			"Mean": [ {"#": "1.1"}, {"SD": "3.6"} ]
+		},
+		{
+			"field1": "Query Time",
+			"field2": "Time (sec) spent querying",
+			"Web": [ {"#": "18 7.5"}, {"SD": "60 0.4"}], 
+			"Lab": [ {"#": "23 4.3"}, {"SD": "25 3.1"} ],
+			"Mean": [ {"#": "19 8.1"}, {"SD": "54 1.2"} ]
+		},
+		{
+			"field1": "Category time*",
+			"field2": "Time (sec) spent using categories",
+			"Web": [ {"#": "23 9.2"}, {"SD": "29 9.8"}], 
+			"Lab": [ {"#": "49 3.0"}, {"SD": "36 2.1"} ],
+			"Mean": [ {"#": "29 6.8"}, {"SD": "1.7"} ]
+		},
+		{
+			"field1": "",
+			"field2": "",
+			"Web": [ {"#": ""}, {"SD": ""}], 
+			"Lab": [ {"#": ""}, {"SD": ""} ],
+			"Mean": [ {"#": ""}, {"SD": ""} ]
+		},
+		{
+			"ield1 ": "Interaction*",
+			"field2": "# of events/actions with systems",
+			"Web": [ {"#": "57.1"}, {"SD": "63.4"}], 
+			"Lab": [ {"#": "97.1"}, {"SD": "67.6"} ],
+			"Mean": [ {"#": "66.62"}, {"SD": "66.4"} ]
+		},
+		{
+			"field1": "Results page used*",
+			"field2": "# of results pages viewed",
+			"Web": [ {"#": "24.7"}, {"SD": "36.2"}], 
+			"Lab": [ {"#": "42.4"}, {"SD": "41.8"} ],
+			"Mean": [ {"#": "28.7"}, {"SD": "38.2"} ]
+		},
+		{
+			"field1": "# = number of times, or time in seconds",
+			"field2": "",
+			"Web": [], 
+			"Lab": [],
+			"Mean": []
+		},
+		{
+			"field1": "SD = standard deviation",
+			"field2": "",
+			"Web": [], 
+			"Lab": [],
+			"Mean": []
+		}
+	]
+}

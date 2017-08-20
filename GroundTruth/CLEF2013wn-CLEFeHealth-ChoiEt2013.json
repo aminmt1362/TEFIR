@@ -1,0 +1,30 @@
+{
+"fileid": "tabula-CLEF2013wn-CLEFeHealth-ChoiEt2013",
+"tablecounter": 1,
+"header" : "Table 1. Baseline run result",
+"rows": [
+ {
+  "Runid": "MEDINFO.1.3.noadd"
+ ,"MAP": "0.3131 ,0.3779"
+ ,"bpref": "0.4800"
+ ,"P10": "" 
+ }, 
+ {
+  "Runid": "MEDINFO.5.3.noadd"
+ ,"MAP": "0.2426"
+ ,"bpref": "0.3368"
+ ,"P10": "0.4040" 
+ }, 
+ {
+  "Runid": "MEDINFO.6.3.noadd"
+ ,"MAP": "0.2343"
+ ,"bpref": "0.3368"
+ ,"P10": "0.4040" 
+ }, 
+ {"Runid": "MEDINFO.7.3.noadd"
+ ,"MAP": "0.2426"
+ ,"bpref": "0.3368"
+ ,"P10": "0.4040" 
+ }
+]
+}

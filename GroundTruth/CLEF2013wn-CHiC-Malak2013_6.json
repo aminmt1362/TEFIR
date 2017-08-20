@@ -1,0 +1,79 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Malak2013",
+	"tablecounter": 6,
+	"header": "Table 6. The biggest difference in MAP for the same topic",
+	"rows": [
+		{
+			"": "#19",
+			"Baseline": "0.0237",
+			"PlToEdu LS": "0.6590",
+			"PlToEdu NO": "0.6790",
+			"PlToExprtLS": "0.2262",
+			"PlToExprtNO": "0.1880",
+			"highest difference %": "2865"
+		},
+		{
+			"": "#29",
+			"Baseline": "0.0010",
+			"PlToEdu LS": "0.2214",
+			"PlToEdu NO": "0.3463",
+			"PlToExprtLS": "0.0042",
+			"PlToExprtNO": "0.0009",
+			"highest difference %": "3463"
+		},
+		{
+			"": "#30",
+			"Baseline": "0.1014",
+			"PlToEdu LS": "0.0066",
+			"PlToEdu NO": "0.0347",
+			"PlToExprtLS": "0.0083",
+			"PlToExprtNO": "0.0315",
+			"highest difference %": "1536"
+		},
+		{
+			"": "#32",
+			"Baseline": "0.0004",
+			"PlToEdu LS": "0.0058",
+			"PlToEdu NO": "0.0017",
+			"PlToExprtLS": "0.2825",
+			"PlToExprtNO": "0.2406",
+			"highest difference %": "70625"
+		},
+		{
+			"": "#34",
+			"Baseline": "0.0047",
+			"PlToEdu LS": "0.0409",
+			"PlToEdu NO": "0.0399",
+			"PlToExprtLS": "0.4502",
+			"PlToExprtNO": "0.4191",
+			"highest difference %": "9579"
+		},
+		{
+			"": "#35",
+			"Baseline": "0.1428",
+			"PlToEdu LS": "0.0541",
+			"PlToEdu NO": "0.0106",
+			"PlToExprtLS": "0.0020",
+			"PlToExprtNO": "0.0087",
+			"highest difference %": "7140"
+		},
+		{
+			"": "#36",
+			"Baseline": "0.7136",
+			"PlToEdu LS": "0.0516",
+			"PlToEdu NO": "0.0332",
+			"PlToExprtLS": "0.1410",
+			"PlToExprtNO": "0.3141",
+			"highest difference %": "2149"
+		},
+		{
+			"": "#47",
+			"Baseline": "0.9667",
+			"PlToEdu LS": "0.2265",
+			"PlToEdu NO": "0.4020",
+			"PlToExprtLS": "0.1643",
+			"PlToExprtNO": "0.0207",
+			"highest difference %": "1641"
+		}
+	]
+}

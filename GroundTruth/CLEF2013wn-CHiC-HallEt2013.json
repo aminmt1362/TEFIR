@@ -1,0 +1,55 @@
+	{
+		"fileid": "CLEF2013wn-CHiC-HallEt2013",
+		"tablecounter": 1,
+		"header": "Table 1. The six clusters found using affinity propagation clustering. The Category, Query, and Meta-Data columns show the fraction of their task time each cluster’s exemplar participant spent on each of the three exploration methods. Cluster #6 is a catch-all cluster for participants that fit into none of the other clusters, thus the exemplar participant data should be ignored.",
+		"rows": [
+			{
+				"Cluster": "1",
+				"Participants": "4",
+				"Category": "1.",
+				"Query": "0.",
+				"Meta-Data": "0.",
+				"Classification": "Browser"
+			},
+			{
+				"Cluster": "2",
+				"Participants": "83",
+				"Category": "0.687",
+				"Query": "0.313",
+				"Meta-Data": "0.",
+				"Classification": "Mixed-mode, browser preferred"
+			},
+			{
+				"Cluster": "3",
+				"Participants": "19",
+				"Category": "0.506",
+				"Query": "0.494",
+				"Meta-Data": "0.",
+				"Classification": "Mixed-Mode"
+			},
+			{
+				"Cluster": "4",
+				"Participants": "26",
+				"Category": "0.107",
+				"Query": "0.893",
+				"Meta-Data": "0.",
+				"Classification": "Mostly search"
+			},
+			{
+				"Cluster": "5",
+				"Participants": "16",
+				"Category": "0.011",
+				"Query": "0.989",
+				"Meta-Data": "0.",
+				"Classification": "Searcher"
+			},
+			{
+				"Cluster": "6",
+				"Participants": "12",
+				"Category": "0.",
+				"Query": "0.",
+				"Meta-Data": "0.",
+				"Classification": "Other"
+			}
+		]
+	}

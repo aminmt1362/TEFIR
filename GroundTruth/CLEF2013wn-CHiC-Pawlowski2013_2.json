@@ -1,0 +1,35 @@
+{
+	"fileid": "CLEF2013wn-CHiC-Pawlowski2013",
+	"tablecounter": 2,
+	"header": "Table 2. Evaluations of the submitted runs.",
+	"rows": [{
+		"Run id": "Baseline",
+		"Map": "0.3140",
+		"P@5": "0.5880",
+		"P@10": "0.5520",
+		"p-value": "",
+		"GMAP": "0.1515"
+	}, {
+		"Run id": "PL WREEdu",
+		"Map": "0.1529",
+		"P@5": "0.4000",
+		"P@10": "0.3500",
+		"p-value": "0.000080",
+		"GMAP": "0.0237"
+	}, {
+		"Run id": "PL WRExp",
+		"Map": "0.1795",
+		"P@5": "0.4200",
+		"P@10": "0.3780",
+		"p-value": "0.006573",
+		"GMAP": "0.0507"
+	}, {
+		"Run id": "PL WRStu",
+		"Map": "0.1279",
+		"P@5": "0.2880",
+		"P@10": "0.2680",
+		"p-value": "0.000020",
+		"GMAP": "0.0376"
+	}
+	]
+}

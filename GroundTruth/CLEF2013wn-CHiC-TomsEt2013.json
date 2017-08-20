@@ -1,0 +1,37 @@
+{
+	"fileid": "CLEF2013wn-CHiC-TomsEt2013",
+	"tablecounter": 1,
+	"header": "Table1. Numbers of Human Participants per Research Team",
+	"rows": [
+		{
+			"": "Humboldt Universität",
+			"Web": "18",
+			"Lab": "8",
+			"Total": "26"
+		},
+		{
+			"": "Royal School of Library and Information Science",
+			"Web": "12",
+			"Lab": "19",
+			"Total": "31"
+		},
+		{
+			"": "Stockholm University",
+			"Web": "9",
+			"Lab": "0",
+			"Total": "9"
+		},
+		{
+			"": "University of Sheffield",
+			"Web": "117",
+			"Lab": "20",
+			"Total": "137"
+		},
+		{
+			"": "other",
+			"Web": "4",
+			"Lab": "1",
+			"Total": "5"
+		}
+	]
+}
