@@ -28,6 +28,8 @@ This project is based on two sub projects which are:
 - Start Mongo DB.
 - Start Solr.
 - Start both projects.
+
+## Validation
 - Import all Ground truth in this project into the framework to prepare for scoring.
 ```sh
 curl -X POST \
@@ -60,4 +62,36 @@ curl -X POST \
 
 Note: This process can be done by PDF2Table the same way.
 
+## Evaluation
+The process to import all extracted PDF files into Solr.
+- Create two cores into solr, with names: pdf2table and pdfgenie.
+- Process all PDF files with PDFGenie and PDF2Table and store the files in a folder.
+- Import pdfgenie tables into solr.
+- - Step 1: Preprocess all files to extract tables from HTML files and convert into JSON.
+```sh
+curl -X POST \
+  http://localhost:9696/pdfgenieprocess \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'postman-token: c3a7f55b-c719-30bb-5e75-3deb74630641' \
+  -d '{
+	"type" : "default",
+	"importToDb" : "true",
+	"sourcePath" : "/home/amin/Documents/amin/classification/finalHtmlFiles_pdfgenie/all/"
+}'
+```
+- - Step 2: Import Into Solr:
+```sh
+curl -X POST \
+  http://localhost:9696/importtosolr \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'postman-token: e47e8dca-d27f-7a01-0acf-b397c528e2ce' \
+  -d '{
+	"core" : "pdfgenie",
+	"processortype": "pdfgenie"
+}'
+```
+
+Note: This can be done the same way with pdf2table.
 
